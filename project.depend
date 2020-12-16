@@ -1,0 +1,141 @@
+# depslib dependency file v1.0
+1594377822 source:d:\程序文件夹\project\main.cpp
+	<iostream>
+	"User.h"
+	"Administrator.h"
+	"Staff.h"
+	"Enterprise.h"
+	"Link_Enterprise.h"
+	"Link_administrator.h"
+	"Link_staff.h"
+	"Function.h"
+
+1594094923 d:\程序文件夹\project\include\user.h
+	<iostream>
+	<string>
+
+1594094923 d:\程序文件夹\project\include\administrator.h
+	<iostream>
+	<string>
+	"User.h"
+
+1594128128 d:\程序文件夹\project\include\staff.h
+	<User.h>
+
+1594127075 d:\程序文件夹\project\include\enterprise.h
+	<User.h>
+
+1594362643 d:\程序文件夹\project\include\link_enterprise.h
+	"Enterprise.h"
+	<fstream>
+
+1594362643 d:\程序文件夹\project\include\link_administrator.h
+	"Administrator.h"
+	<fstream>
+
+1594362088 d:\程序文件夹\project\include\link_staff.h
+	"Staff.h"
+	<fstream>
+
+1594362088 d:\程序文件夹\project\function.h
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	"Administrator.h"
+	"Staff.h"
+	"Enterprise.h"
+	"Link_Enterprise.h"
+	"Link_administrator.h"
+	"Link_staff.h"
+
+1594341935 source:d:\程序文件夹\project\src\administrator.cpp
+	"Administrator.h"
+
+1594213079 source:d:\程序文件夹\project\src\enterprise.cpp
+	"Enterprise.h"
+
+1594094923 source:d:\程序文件夹\project\src\link_administrator.cpp
+	"Link_administrator.h"
+
+1594208285 source:d:\程序文件夹\project\src\link_enterprise.cpp
+	"Link_Enterprise.h"
+
+1594362643 source:d:\程序文件夹\project\src\link_staff.cpp
+	"Link_staff.h"
+
+1594128128 source:d:\程序文件夹\project\src\staff.cpp
+	"Staff.h"
+
+1594094923 source:d:\程序文件夹\project\src\user.cpp
+	"User.h"
+
+1594377822 source:d:\程序文件夹\1914010432-朱博-程序代码\main.cpp
+	<iostream>
+	"User.h"
+	"Administrator.h"
+	"Staff.h"
+	"Enterprise.h"
+	"Link_Enterprise.h"
+	"Link_administrator.h"
+	"Link_staff.h"
+	"Function.h"
+
+1594094923 d:\程序文件夹\1914010432-朱博-程序代码\include\user.h
+	<iostream>
+	<string>
+
+1594094923 d:\程序文件夹\1914010432-朱博-程序代码\include\administrator.h
+	<iostream>
+	<string>
+	"User.h"
+
+1594128128 d:\程序文件夹\1914010432-朱博-程序代码\include\staff.h
+	<User.h>
+
+1594127075 d:\程序文件夹\1914010432-朱博-程序代码\include\enterprise.h
+	<User.h>
+
+1594362643 d:\程序文件夹\1914010432-朱博-程序代码\include\link_enterprise.h
+	"Enterprise.h"
+	<fstream>
+
+1594362643 d:\程序文件夹\1914010432-朱博-程序代码\include\link_administrator.h
+	"Administrator.h"
+	<fstream>
+
+1594362088 d:\程序文件夹\1914010432-朱博-程序代码\include\link_staff.h
+	"Staff.h"
+	<fstream>
+
+1594362088 d:\程序文件夹\1914010432-朱博-程序代码\function.h
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	"Administrator.h"
+	"Staff.h"
+	"Enterprise.h"
+	"Link_Enterprise.h"
+	"Link_administrator.h"
+	"Link_staff.h"
+
+1594341935 source:d:\程序文件夹\1914010432-朱博-程序代码\src\administrator.cpp
+	"Administrator.h"
+
+1594213079 source:d:\程序文件夹\1914010432-朱博-程序代码\src\enterprise.cpp
+	"Enterprise.h"
+
+1594094923 source:d:\程序文件夹\1914010432-朱博-程序代码\src\link_administrator.cpp
+	"Link_administrator.h"
+
+1594208285 source:d:\程序文件夹\1914010432-朱博-程序代码\src\link_enterprise.cpp
+	"Link_Enterprise.h"
+
+1594362643 source:d:\程序文件夹\1914010432-朱博-程序代码\src\link_staff.cpp
+	"Link_staff.h"
+
+1594128128 source:d:\程序文件夹\1914010432-朱博-程序代码\src\staff.cpp
+	"Staff.h"
+
+1594094923 source:d:\程序文件夹\1914010432-朱博-程序代码\src\user.cpp
+	"User.h"
+
